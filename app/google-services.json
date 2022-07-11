@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511218898694",
+    "project_id": "social-media-app-faf1d",
+    "storage_bucket": "social-media-app-faf1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511218898694:android:55baa6f5bebc6f86207087",
+        "android_client_info": {
+          "package_name": "com.example.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511218898694-skvffst670hi84g5ll6s4gvded37bkps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO05gDydYMFZHwFODgrCtYS-HP5hxo3U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511218898694-skvffst670hi84g5ll6s4gvded37bkps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
